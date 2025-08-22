@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kevein Cardoso  
 
-<!--
-**KeveinCardoso/KeveinCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na [Uninassau](https://www.uninassau.edu.br/)  
+💻 Apaixonado por **tecnologia, programação e inovação**  
+🚀 Sempre em busca de aprender e aplicar novos conhecimentos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou estudando
+- **Linguagens:** Java, C++, JavaScript,
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Ferramentas:** Git & GitHub, VS Code, Docker (iniciante) 
+- **Áreas de interesse:** Desenvolvimento Web, Banco de Dados, Segurança da Informação.  
+
+---
+
+
+## 🌐 Onde me encontrar
+- 📧 Email: **keveincardoso15@gmail.com**   
+- 💼 LinkedIn: [Kevein Cardoso](https://www.linkedin.com)   
+
+---
+
+✨ *"Transformando ideias em código e sempre buscando evoluir."*
